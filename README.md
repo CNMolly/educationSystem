@@ -1,1 +1,2 @@
-# educationsystem
+该系统为一个全栈开发的B2C在线教育系统
+基于微服务分布式架构，后端用Java编写，所用框架为SpringCloud；前段用Js编写，框架为Vue；Linux系统在线运维，其中有Redis缓存、canal等；数据库Mysql;中间件用阿里云视频、阿里云短信验证、OSS云存储等
